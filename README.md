@@ -4,4 +4,4 @@ This python script uploads all files in a specific folder locally to a specific 
 
 ## Ussage
 
-The **backup** folder of this repo must be inside of the folder you want to upload to Google Drive. Also you will need an Oauth credential file named as **client_secrets.json** inside **backup** folder of this repo, to generate the **client_secrets.json** file follow this [https://help.talend.com/r/E3i03eb7IpvsigwC58fxQg/Lp096EBnOyWNk33h~CKm~Q](tutorial)
+The **backup** folder of this repo must be inside of the folder you want to upload to Google Drive. Also you will need an Oauth credential file named as **client_secrets.json** inside **backup** folder of this repo, to generate the **client_secrets.json** file follow this [tutorial](https://help.talend.com/r/E3i03eb7IpvsigwC58fxQg/Lp096EBnOyWNk33h~CKm~Q)
