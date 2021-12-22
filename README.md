@@ -8,4 +8,6 @@ The **backup** folder of this repo must be inside of the folder you want to uplo
 
 To start uploading:
 
+```console
 python3 backup.py [name of the folder in Google Drive]
+```
